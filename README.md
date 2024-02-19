@@ -1,12 +1,3 @@
-# Free-Web-Hosting
-
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/nuhmanpk)
-![GitHub stars](https://img.shields.io/github/stars/nuhmanpk/Awesome-Web-Hosting)
-![GitHub forks](https://img.shields.io/github/forks/nuhmanpk/Awesome-Web-Hosting)
-![GitHub contributors](https://img.shields.io/github/contributors/nuhmanpk/Awesome-Web-Hosting)
-![GitHub last commit](https://img.shields.io/github/last-commit/nuhmanpk/Awesome-Web-Hosting)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/nuhmanpk/Awesome-Web-Hosting)
-![GitHub issues](https://img.shields.io/github/issues-raw/nuhmanpk/Awesome-Web-Hosting)
 
 | No. | Hosting Service | Description |
 |-----|-----------------|-------------|
@@ -355,3 +346,7 @@ Project management platform with a focus on organization and collaboration.
 
 
 Reference - [Free-For.dev](https://free-for.dev/)
+
+
+Thanks to [nuhmanpk](https://github.com/nuhmanpk)
+for the Base repo
